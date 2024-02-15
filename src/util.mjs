@@ -1,5 +1,6 @@
 import mat from './mat.mjs';
 import params from './params.mjs';
+import webgazer from './index.mjs';
 
 const util = {};
 
